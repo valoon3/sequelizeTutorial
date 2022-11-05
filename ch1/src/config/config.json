@@ -12,7 +12,9 @@
       "idle": 10000
     },
     "define": {
-      "freezeTableName":true
+      "freezeTableName":true,
+      "timestamps": false,
+      "underscored": true
     }
   },
   "test": {
